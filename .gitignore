@@ -1,0 +1,9 @@
+data/derived_data/prob_cube/*.tif
+data/derived_data/prob_cube/*.log
+data/derived_data/class/cbers_cube_probs_PROBS_bayes_v1.tif
+.Rproj.user
+.Rprofile
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
